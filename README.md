@@ -8,3 +8,4 @@ Problems from leetcode August challenge
 6. Add and Search for Word - Data Structure Design
 7. Find all the duplicates in the array
 8. Vertical Order Travel of Tree
+9. Closest Binary Search Tree Value
